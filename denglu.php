@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>登录</title>
+		<title>登录dfd</title>
 		<style type="text/css">
 			.index{width: 100%;height: 1380px; }
 			.head{width: 99.9%; height:280px; border: 1px solid black;}
